@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Тавтай морил" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          encom beta v1</code>
         </p>
       </main>
 

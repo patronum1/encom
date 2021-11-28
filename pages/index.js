@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Тавтай моsdaрил" />
+        <Header title="asd" />
         <p className="description">
           encom beta v1</code>
         </p>
